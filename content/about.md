@@ -8,36 +8,32 @@ tags:
   - untagged
 ---
 
+Hi,
+my name is Jan, also known as *smittie* sometimes.
 
-# The Short
+I'm holding a bachelor degree in media engineering and am currently enrolled
+in a masters program for media related computer science in düsseldorf, germany.
 
-Jan Schmitt or `smittie` is a live long learner, with a focus on software development.
-Currently he is specializing in web and ai-related topics.
+When I'm not hacking into my keyboard writing code in Java, TypeScript, Python or Clojure,
+I like to...
 
-
-# The Long 
-
-Q: Hi who are you?
-
-A: I'm `smittie` most places online and sometimes even offline. People call me names, but my real name remains *Jan*.
-
-Q: 
-
-## Who...
-
-Jan Schmitt is the name but smittie is an alias people are using.
-
-
-## Where...
-
-I'm currently based in Düsseldorf, germany.
-
-## What...
-
-is going on here?
+>    ...spend time with my wife and our beloved espresso machine.
+>
+>    ...follow my passion for jazz music on guitar or piano.
+>
+>    ...keep my coffee game high with my espresso machine or chemex filter.
+>
+>    ...read articles or books about clean code, functional programming or philosphic topics.
+>
+>    ...tweak my programming and system setup on Linux or OSX.
+>
+>    ...do sports like Crossfit or LesMills.
+>
+>    ...have good chats about all of the above mentioned.
 
 
-## Why
+For more details on my working experience, head over to my LinkedIn.
 
+You could even drop me an e-mail if you like.
 
-If you find 
+Just click the envelope below.
