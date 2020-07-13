@@ -86,10 +86,10 @@ disqusShortname = "smittie-de"
     url = "about/"
     weight = 10
 
-  # [[menu.main]]
-  #   name = "Posts"
-  #   url = "posts/"
-  #   weight = 20
+  [[menu.main]]
+    name = "Posts"
+    url = "posts/"
+    weight = 20
 
   # [[menu.main]]
   #   name = "Portfolio"
