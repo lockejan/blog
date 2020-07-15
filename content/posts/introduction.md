@@ -4,6 +4,9 @@ date: 2020-07-02T13:16:02+02:00
 draft: false
 toc: false
 tags: 
+    - hugo
+    - static site generator
+    - gitlab pages
 
 ---
 > "Success is not final, failure is not fatal: it is the courage to continue that counts."
@@ -30,7 +33,7 @@ So the idea of starting a blog has been on my mind for quite some time.
 Fortunately I finally managed to spin up a setup that I found simple and functional enough to achieve this.
 
 I really like [clojure][1] and I am probably gonna switch to a clojure based solution in the future, but for now I found hugo to be the best quick solution.
-Hugo is a popular static site generator and you might want to use it too if you are planning on starting a blog.
+[Hugo][2] is a popular static site generator and you might want to use it too if you are planning on starting a blog.
 There are a lot of good reasons to use static site generators in favour of a full-fleged web-framework.
 It's pretty fast, good on security and you can host it everywhere to name just a [few reasons][3].
 
