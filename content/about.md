@@ -14,7 +14,7 @@ my name is Jan, also known as *smittie* sometimes.
 I'm holding a bachelor degree in media engineering and am currently enrolled
 in a masters program for media related computer science in düsseldorf, germany.
 
-When I'm not hacking into my keyboard writing code in Java, TypeScript, Python or Clojure,
+When I'm not hacking into my keyboard writing code in various programming languages like Python, Clojure or X,
 I like to...
 
 >    ...spend time with my wife and our beloved espresso machine.
