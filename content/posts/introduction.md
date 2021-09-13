@@ -46,11 +46,11 @@ You could easily use another service for that or even host it yourself, but gitl
 
 Furthermore other people are able to read this and maybe learn something through it as well.
 Even if it's just a link to a better source to their question.
-So if one my posts helped you in understanding a topic or getting a setup done, please let me know.
 
 So if you are interested in programming, coffee or anything else of the things I've mentioned in my about section you should come back from time to time.
+If one of my posts helped you in understanding a topic or getting a setup done, please let me know.
 
-If you use [RSS][9] you can [subscribe][5] to my updates if you like.
+The site also provides an [RSS][9] feed you can [subscribe][5] to if you like.
 I'm planning to put at least one post a month online.
 
 It's a try so let's see where this is going.
