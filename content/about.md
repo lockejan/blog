@@ -4,35 +4,33 @@ date: 2020-07-02T13:16:02+02:00
 toc: false
 draft: false
 images:
-tags: 
+tags:
   - untagged
 ---
 
 Hi,
 my name is Jan, also known as *smittie* sometimes.
 
-I'm holding a bachelor degree in media engineering and am currently enrolled
-in a masters program for media related computer science in düsseldorf, germany.
+I studied media technology and media informatics in Germany, Düsseldorf.
 
-When I'm not hacking into my keyboard writing code in various programming languages like Python, Clojure or X,
-I like to...
+Programming and the automation of provisioning and deployment do especially interest me these days.
+I also like the topic of text editors and workflow improvement.
+
+When I'm not working on such things I also like to...
 
 >    ...spend time with my wife and our beloved espresso machine.
 >
->    ...follow my passion for jazz music on guitar or piano.
+>    ...follow my passion for jazz music on guitar.
 >
->    ...keep my coffee game high with my espresso machine or chemex filter.
->
->    ...read articles or books about clean code, functional programming or philosphic topics.
+>    ...read articles or books about clean code, functional programming or philosophic topics.
 >
 >    ...tweak my programming and system setup on Linux or OSX.
 >
->    ...do sports like Crossfit or LesMills.
+>    ...do sports like Crossfit, [ GMB ](https://gmb.io) or LesMills.
 >
 >    ...have good chats about all of the above mentioned.
 
-
-For more details on my working experience, head over to my LinkedIn.
+For more details on my working experience, head over to my [ LinkedIn ]( https://www.linkedin.com/in/jan-schmitt/ ).
 
 You could even drop me an e-mail if you like.
 
