@@ -26,12 +26,15 @@ When I'm not working on such things I also like to...
 >
 >    ...tweak my programming and system setup on Linux or OSX.
 >
->    ...do sports like Crossfit, [ GMB ](https://gmb.io) or LesMills.
+>    ...do sports like Crossfit, [GMB][1] or LesMills.
 >
 >    ...have good chats about all of the above mentioned.
 
-For more details on my working experience, head over to my [ LinkedIn ]( https://www.linkedin.com/in/jan-schmitt/ ).
+For more details on my working experience, head over to my [LinkedIn][2].
 
 You could even drop me an e-mail if you like.
 
 Just click the envelope below.
+
+[1]: https://gmb.io
+[2]: https://www.linkedin.com/in/jan-schmitt/
