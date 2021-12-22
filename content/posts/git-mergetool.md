@@ -14,6 +14,8 @@ I like neovim and using git via the cli.
 Git has some options to customize specific tasks, for instance solving merge conflicts using [git mergetool](https://git-scm.com/docs/git-mergetool).
 In this blog post I'm going to demonstrate how to setup git and neovim to solve git merge conflicts without the need of an additional GUI tool.
 
+## Setup
+
 To achieve this there are a few prerequisites:
 
 - [neovim](https://github.com/neovim/neovim) and git are installed
@@ -34,9 +36,9 @@ For instance, using the git cli:
 
 
 This only registers a variable which still needs a command to be executed.
+
 `git config mergetool.nvim.cmd 'nvim -d -c "wincmd l" -c "norm ]c" "$LOCAL" "$MERGED" "$REMOTE"'`
 
-This is the command to be executed when `git mergetool` is being executed via the CLI in a git repository.
 
 A short notice what is actually being executed here:
 
@@ -57,10 +59,9 @@ After inserting the new options `git config -l | grep 'merge'` should reveal the
 ```git
 merge.tool=nvim
 mergetool.nvim.cmd=nvim -d -c "wincmd l" -c "norm ]c" "$LOCAL" "$MERGED" "$REMOTE"
-
 ```
 
-Inside the git config file it should look like that:
+Inside the git config file it should look similar to this:
 
 ```toml
 [merge]
@@ -72,14 +73,15 @@ Inside the git config file it should look like that:
 
 [mergetool "nvim"]
 	cmd = "nvim -d -c \"wincmd l\" -c \"norm ]c\" \"$LOCAL\" \"$MERGED\" \"$REMOTE\""
-
 ```
 
-Entering `git mergetool` will now parse parse all merge conflicted files and populate them iteratively to the mergetool command.
+## Run
+
+Entering `git mergetool` will then parse all merge conflicted files and populate them iteratively to the mergetool command.
 
 ![image alt git-mergetool-cli](/images/git-mergetool-1.png)
 
-After solving a merge conflict it will continue with any following files in the repo and open that again.
+## Resolve
 
 ![image alt 3way-diff](/images/git-mergetool-2.png "3way-Diff using neovim")
 
