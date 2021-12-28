@@ -11,14 +11,14 @@ tags:
 ---
 
 I like neovim and using git via the cli.
-Git has some options to customize specific tasks, for instance solving merge conflicts using [git mergetool](https://git-scm.com/docs/git-mergetool).
+Git has some options to customize specific tasks, for instance solving merge conflicts using [git mergetool][1].
 In this blog post I'm going to demonstrate how to setup git and neovim to solve git merge conflicts without the need of an additional GUI tool.
 
 ## Setup
 
 To achieve this there are a few prerequisites:
 
-- [neovim](https://github.com/neovim/neovim) and git are installed
+- [neovim][2] and git are installed
 - a merge conflict to test the config against
 
 Next Git's config has to be updated in one of the following places:
@@ -95,3 +95,12 @@ Furthermore git will also place backup files of the originals inside the git rep
 Git will also ask before any merge conflicted file is opened in a diff, unless `prompt` is set to `false`.
 
 This is just one approach among many, but it works quite well for me.
+
+Further reading:
+
+1. [git manual][1] for even more configuration options.
+2. [neovim source][3] for more cli examples.
+
+[1]: https://git-scm.com/docs/git-mergetool
+[2]: https://github.com/neovim/neovim
+[3]: https://github.com/neovim/neovim/blob/master/src/nvim/testdir/test_diffmode.vim#L607
