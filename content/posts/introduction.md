@@ -3,7 +3,7 @@ title: "Introduction"
 date: 2020-07-02T13:16:02+02:00
 draft: false
 toc: false
-tags: 
+tags:
     - hugo
     - static site generator
     - gitlab pages
@@ -60,6 +60,8 @@ Have a great day.
 Ciao,
 Jan
 
+*Update: I've switched to a self hosted solution and moved the blog to [github.com][10]*
+
 [1]: https://clojure.org/
 [2]: https://gohugo.io/
 [3]: https://www.strattic.com/jekyll-hugo-wordpress-pros-cons-static-site-generators/
@@ -69,3 +71,4 @@ Jan
 [7]: https://dev.to/beeman/automate-your-dev-posts-using-github-actions-4hp3
 [8]: https://gitlab.com/lockejan/blog
 [9]: https://en.wikipedia.org/wiki/RSS
+[10]: https://github.com/lockejan/blog
