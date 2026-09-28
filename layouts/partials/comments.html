@@ -1,0 +1,8 @@
+{{- /*
+  Overrides the theme's Disqus partial with remark42, self-hosted at
+  comments.smittie.de. Config and loader live in static/js/remark42.js
+  rather than remark42's usual inline snippet, so the site's CSP needs no
+  'unsafe-inline'.
+*/ -}}
+<div id="remark42"></div>
+<script src="{{ "js/remark42.js" | relURL }}" defer></script>
